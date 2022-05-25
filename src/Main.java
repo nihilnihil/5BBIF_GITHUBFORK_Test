@@ -6,7 +6,5 @@ public class Main {
 
         FRITZ_TestClass ftc = new FRITZ_TestClass();
         System.out.println(ftc.toString());
-        ftc.setMyString("Second Pull");
-
     }
 }
