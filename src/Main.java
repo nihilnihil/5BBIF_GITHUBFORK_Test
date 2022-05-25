@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         BEDA_TestClass beda_testClass = new BEDA_TestClass();
         System.out.println(beda_testClass.toString());
+        hojati hojati = new hojati();
+        System.out.println(hojati.toString());
     }
 }
