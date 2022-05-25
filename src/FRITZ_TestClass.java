@@ -23,6 +23,6 @@ public class FRITZ_TestClass {
     }
 
     public void testTest(){
-
+        System.out.println("This is the final countdown");
     }
 }
