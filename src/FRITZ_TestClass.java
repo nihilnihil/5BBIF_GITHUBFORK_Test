@@ -14,4 +14,11 @@ public class FRITZ_TestClass {
     public void setMyString(String myString) {
         this.myString = myString;
     }
+
+    @Override
+    public String toString() {
+        return "FRITZ_TestClass{" +
+                "myString='" + myString + '\'' +
+                '}';
+    }
 }
