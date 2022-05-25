@@ -4,7 +4,11 @@ public class Main {
         BEDA_TestClass beda_testClass = new BEDA_TestClass();
         System.out.println(beda_testClass.toString());
 
+        Kwech_TestClass kw = new Kwech_TestClass();
+        System.out.println(kw.toString());
+
         FRITZ_TestClass ftc = new FRITZ_TestClass();
         System.out.println(ftc.toString());
+
     }
 }
