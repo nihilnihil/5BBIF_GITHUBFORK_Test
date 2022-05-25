@@ -21,4 +21,8 @@ public class FRITZ_TestClass {
                 "myString='" + myString + '\'' +
                 '}';
     }
+
+    public void testTest(){
+
+    }
 }
